@@ -8,6 +8,6 @@ simply crack detection
 
 just download the models from this links : 
 
-:page_facing_up: [YOLO Crack Detection models](https://www.kaggle.com/hussainsalih/streetcrackdetection)
+[YOLO Crack Detection models](https://www.kaggle.com/hussainsalih/streetcrackdetection)   :page_facing_up: 
 
 I hope you enjoy the code :tada:

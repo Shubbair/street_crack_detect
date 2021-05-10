@@ -9,10 +9,10 @@ just follow these two steps :
 
 1. download the models from this links : 
 
-[YOLO Crack Detection models](https://www.kaggle.com/hussainsalih/streetcrackdetection)   :page_facing_up: 
+     [YOLO Crack Detection models](https://www.kaggle.com/hussainsalih/streetcrackdetection)   :page_facing_up: 
 
 2. add models to your directory folder.
 
-Done 👏
+     Done 👏
 
 I hope you enjoy the code :tada:

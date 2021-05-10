@@ -1,6 +1,5 @@
-# street_crack_detect
-simply crack detection
-
+# Street Crack Detect
+detecting crack in street using  :sparkles:  YOLO :sparkles:
 
    Input Image             |        Ouput Image
 :-------------------------:|:-------------------------:

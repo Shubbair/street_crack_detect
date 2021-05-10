@@ -11,6 +11,5 @@ just download the models from this links :
 
 I hope you enjoy the code :tada:
 
-<div class="text-purple">
-  This text is purple, <a href="#" class="text-inherit">including the link</a>
-</div>
+<font color="red">Status: **Not yet implemented**</font>
+

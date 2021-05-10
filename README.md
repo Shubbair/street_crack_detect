@@ -7,7 +7,7 @@ detecting crack in street using  :sparkles:  **YOLO** :sparkles: `#f03c15`
 
 just follow these two steps : 
 
-1.download the models from this links : 
+1. download the models from this links : 
 
 [YOLO Crack Detection models](https://www.kaggle.com/hussainsalih/streetcrackdetection)   :page_facing_up: 
 

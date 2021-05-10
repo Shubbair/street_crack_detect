@@ -11,7 +11,7 @@ just follow these two steps :
 
      [YOLO Crack Detection models](https://www.kaggle.com/hussainsalih/streetcrackdetection)   :page_facing_up: 
 
-2. add models to your directory folder.
+2. add models to your directory folder   :file_folder:  .
 
      Done 👏
 

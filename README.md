@@ -6,4 +6,9 @@ simply crack detection
 :-------------------------:|:-------------------------:
 ![](/images/input.jpg)  |  ![](/images/output.jpg)
 
-:+: I hope you enjoy the code :sparkles:
+just download the models from this links : 
+
+[this](www.google.com)
+[this](www.google.com)
+
+:+1: I hope you enjoy the code :sparkles:

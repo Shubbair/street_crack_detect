@@ -1,5 +1,5 @@
 # Street Crack Detect
-detecting crack in street using  :sparkles:  YOLO :sparkles:
+detecting crack in street using  :sparkles:  **YOLO** :sparkles: `#f03c15`
 
    Input Image             |        Ouput Image
 :-------------------------:|:-------------------------:
@@ -10,3 +10,7 @@ just download the models from this links :
 [YOLO Crack Detection models](https://www.kaggle.com/hussainsalih/streetcrackdetection)   :page_facing_up: 
 
 I hope you enjoy the code :tada:
+
+<div class="text-purple">
+  This text is purple, <a href="#" class="text-inherit">including the link</a>
+</div>
